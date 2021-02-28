@@ -1,0 +1,15 @@
+version="latest"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Historical"
+	"Ideologies"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Technologies"
+}
+name="Heil Dir Im Siegerkranz"
+supported_version="1.10.4"
