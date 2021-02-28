@@ -1,5 +1,5 @@
 How to install the mod:
-Step 1: copy + past the folder "siegerkranz" into your mod folder.
+Step 1: copy + paste the folder "siegerkranz" into your mod folder.
 https://hoi4.paradoxwikis.com/Mod_structure#Local_Mod
 
 Step 2: copy + paste the .mod folder into your mod folder (instructions above)
